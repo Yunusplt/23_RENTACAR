@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "23_RENTACAR",
+			"path": "."
+		},
+		{
+			"name": "users",
+			"path": "../clarusway-FS-DE-05-TR/django/class-notes/14_Flight_App_User/users"
+		}
+	],
+	"settings": {}
+}
