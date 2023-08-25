@@ -23,4 +23,9 @@
 - create permissions.py
 - artik sadece token i olan admin özelligi olan kullanici post yapiyor. 
 - serializersda görmek istedigimiz alani secicez kisiye göre.
+- bunun icin def get_fields kullaniyoruz. in serializers.py
+
+
+### 2. Day
+- in views  startdate and enddateden olussan slug yapicaz.
 - 
